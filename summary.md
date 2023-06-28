@@ -1,34 +1,35 @@
-<!-- ## [Svelte] Les fonctions qu'on pense être réactives
+<!-- ## Les fonctions qu'on pense être réactives (svelte)
 
 > [`Calculator.svelte`](./src/components/Calculator.svelte)
 
-## [Svelte] $$$ Picsou $$$
+## $$$ Picsou $$$ (svelte)
 
 > [`Pokemon.svelte`](./src/components/Pokemon.svelte)
 
-## [SvelteKit] `$lib`
+## `$lib` (svelte-kit)
 
-## [SvelteKit] Les `goto` -->
+## Les `goto` (svelte-kit) -->
 
-## [Svelte] Les abonnements fantômes
+## Les abonnements fantômes (svelte)
 
 > [`SubscribeProvider.svelte`](./src/components/providers/SubscribeProvider.svelte)
 
-## [Svelte] Les dérivés de state / props non réactifs
+## Les dérivés de state / props non réactifs (svelte)
 
 > [`Number.svelte`](./src/components/Number.svelte)
+
 > [`Calculator.svelte`](./src/components/Calculator.svelte)
 
-## [SvelteKit] Les stores sur le serveur
+## Les stores sur le serveur (svelte-kit)
 
 > [`+layout.svelte`](./src/routes/+layout.svelte)
 
-## [Svelte] La pyramide de l'enfer
+## La pyramide de l'enfer (svelte)
 
 > [`Provider.svelte`](./src/components/providers/Provider.svelte)
 
-## [SvelteKit] La réactivité forcée
+## La réactivité forcée (svelte-kit)
 
 > [`+layout.svelte`](./src/routes/+layout.svelte)
 
-## [SvelteKit] Le BFF de SvelteKit ?
+## Le BFF de SvelteKit ? (svelte-kit)
